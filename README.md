@@ -1,2 +1,3 @@
 # dasar-dasar-pemograman
-daoa
+nama : bebek madu asli ngawi
+nim : 67
