@@ -1,3 +1,3 @@
 # dasar-dasar-pemograman
-nama : bebek madu asli ngawi
-nim : 67
+nama : Daffa Naufal Abiyyi
+nim : 2609116025
